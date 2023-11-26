@@ -1,0 +1,6 @@
+<?php
+$sn="localhost";
+$un="root";
+$ps="";
+$db="testdb";
+?>
